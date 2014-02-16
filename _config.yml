@@ -1,4 +1,5 @@
 name: BrianChatman.com
 markdown: redcarpet
 pygments: true
-permalink: /:categories/:title/
+permalink: /:categories/:title-:year:month:day/
+css: /styles.css

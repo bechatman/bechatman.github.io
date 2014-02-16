@@ -5,14 +5,14 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
-        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="{{ site.css }}">
 
     </head>
     <body>
 
         <div class="site">
           <header>
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <div><a href="/" class="logo">{{ site.name }}</a></div>
           </header>
           <section role="main">
           {{ content }}
