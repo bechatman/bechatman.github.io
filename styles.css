@@ -1,0 +1,36 @@
+@import url(http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700|Coda:400,800);
+.site {
+  max-width: 98%;
+  margin: 0 auto; }
+
+.logo {
+  display: block;
+  font-family: "Coda", serif;
+  font-weight: 800;
+  font-size: 5em;
+  line-height: 1;
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  max-width: 100%; }
+
+section[role="main"] {
+  max-width: 900px;
+  width: 100%;
+  margin: 1em auto;
+  border: 1px solid red; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Coda", serif;
+  font-weight: 400; }
+
+p,
+li,
+address {
+  font-family: "Old Standard TT", serif;
+  font-size: 1.2em; }

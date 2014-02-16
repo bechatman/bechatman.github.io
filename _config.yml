@@ -2,3 +2,4 @@ name: BrianChatman.com
 markdown: redcarpet
 pygments: true
 permalink: /:categories/:title/
+css: /styles.css
