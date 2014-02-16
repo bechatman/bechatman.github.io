@@ -12,12 +12,17 @@
 	display:block;
 	font-family:"Coda", serif;
 	font-weight:800;
-	font-size:5em;
+	font-size:2em;
 	line-height:1;
 	text-decoration:none;
 	text-align:center;
 	color:black;
-	max-width:100%;
+	width:100%;
+	img {
+		max-width:900px;
+		width:100%;
+		margin:0 auto;
+	}
 }
 
 section[role="main"] {
