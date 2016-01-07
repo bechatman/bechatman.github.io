@@ -8,7 +8,10 @@ permalink: /resume/
 <h2>Education</h2>
 <p>Bachelor of Science in News Editorial Journalism<br>
 Texas Christian University, 2002-2006</p>
-<h2>Experience</h2>
+<h2>Work History</h2>
+<p><strong>Paige Hendricks Public Relations, Intern,</strong><br>May 2005-June 2006</p>
+<p><strong>City of Fort Worth, Texas</strong><br />June 2006-present</p>
+<h2>Web Experience at City of Fort Worth</h2>
 <h3>Copy Writer/Content Management System Trainer, June-December 2006</h3>
 <p>I started my career with the City of Fort Worth writing news stories about activities in various departments, and training subject matter experts to maintain their own web content.</p>
 <h3>Interm Webmaster/Assistant Web Managing Editor, December 2006-September 2010</h3>
@@ -20,4 +23,4 @@ Texas Christian University, 2002-2006</p>
 <h2>Skills</h2>
 <p>I have a strong background in <strong>HTML</strong>, <strong>CSS</strong> and content strategy/copy writing. I am proficient in <strong>Adobe Photoshop</strong>, I have worked with several website content management systems, and I have experience with Javascript, jQuery, JSON/XML APIs.</p>
 <h2>Goals</h2>
-<p>I hope to find a job where I can continue to grow my web skill set as new technologies and tools emerge, while bringing my experience in large, multi-faceted organization to bear on new challenges.</p>
+<p>I hope to find a job where I can continue to grow my web skill set as new technologies and tools emerge, while bringing my experience in a large, multi-faceted organization to bear on new challenges.</p>
