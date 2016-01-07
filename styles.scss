@@ -282,7 +282,7 @@ table {
   padding-top:1em;
 }
 
-.image-w-caption figcaption {
+figcaption {
   font-style:italic;
   padding-top:1em;
   padding-bottom:1em;
@@ -361,10 +361,24 @@ main {
   margin:0 auto;
 }
 
+.side-by-side {
+  display:flex;
+  flex-direction:row;
+  justify-content:flex-start;
+  flex-wrap:wrap;
+  div {
+    width:50%;
+    padding:1%;
+  }
+  figcaption {
+    width:100%;
+  }
+}
+
 @media (min-width:$breakpoint2){
   header {
     flex-direction:row;
-    padding-bottom:5rem;
+    padding-bottom:2rem;
   }
   .logo {
   padding-bottom:0;
@@ -377,6 +391,7 @@ main {
     display:flex;
     flex-direction:row;
     justify-content:space-between;
+    flex-wrap:wrap;
     .image-w-caption {
         width:50%;
         float:right;

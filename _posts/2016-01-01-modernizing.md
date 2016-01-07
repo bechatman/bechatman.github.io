@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Living up to web standards"
-excerpt: "An overview of how someone who dropped Intro to Programming ended up coding responsive websites ... and how I applied what I learned along the way."
+excerpt: "How I kept the Fort Worth website evolving with minimal resources."
 tags:
 - portfolio
 ---
@@ -33,8 +33,24 @@ Our two-person web team had taken on responsibility for more than 90 percent of 
 
 Then the bottom fell out of the effort.
 
-Our two person "team" was cut to just me due to budget cuts, and I also was saddled with handling email marketing, all news releases and internal communications and even became a city photographer.
+Our two person "team" was cut to just me due to budget constraints, and I also was saddled with handling email marketing, all news releases and internal communications and even became a city photographer.
 
 In spite of this, I took this an opportunity to modernize the site further.
 
-The news releases were changed into website posts with an RSS feed. The photos I was taking opened the door for an image slider, and my familiarity with the site allowed me to create an icon-based navigation to make finding the
+The news releases were changed into website posts, which were linked in a new email newsletter. I created improved navigation, but used the increase in photography available to better highlight news.
+
+Then, in 2013, while sitting at a communications conference in a presentation about the importance of mobile, I decided to take what I knew about responsive layouts and apply it to the city site. I did a slight graphic refresh and made the site mobile responsive (a design still available on the [Fort Worth Library website](http://fortworthtexas.gov/library/)).
+
+<figure class="side-by-side">
+<div>
+<img src="/images/2012.png" alt="first tweak" />
+</div>
+<div>
+<img src="/images/2013.png" alt="responsive" />
+</div>
+<figcaption>Though visually similar, the responsive layout (on the right) increased the width of the site from 768 pixels to 960 pixels in width.</figcaption>
+</figure>
+
+Though only representing a few days of work, the responsive retrofit took two months to implement due to the weight of other tasks.
+
+Luckily, 2014 brought new staff to the city, freeing me to take on a much bigger task: A full redesign and implementing a new content management system.
