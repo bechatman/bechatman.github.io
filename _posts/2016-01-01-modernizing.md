@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Living up to web standards"
-excerpt: "How I kept the Fort Worth website evolving with minimal resources."
+excerpt: "Keeping the Fort Worth website on track with minimal resources."
 tags:
 - portfolio
+slug: living-up-to-web-standards
 ---
 When I started working on the City of Fort Worth website in 2006, it was in the final stages of its first redesign.
 
@@ -33,13 +34,15 @@ Our two-person web team had taken on responsibility for more than 90 percent of 
 
 Then the bottom fell out of the effort.
 
-Our two person "team" was cut to just me due to budget constraints, and I also was saddled with handling email marketing, all news releases and internal communications and even became a city photographer.
+The "team" was cut to just me due to budget constraints, and I also was saddled with handling email marketing, writing news releases and developing internal communications.
 
 In spite of this, I took this an opportunity to modernize the site further.
 
-The news releases were changed into website posts, which were linked in a new email newsletter. I created improved navigation, but used the increase in photography available to better highlight news.
+The news releases were changed into website posts, which were linked in a new email newsletter. I created improved navigation, but used my amateur interest in photography to put photos to the content and better highlight news.
 
 Then, in 2013, while sitting at a communications conference in a presentation about the importance of mobile, I decided to take what I knew about responsive layouts and apply it to the city site. I did a slight graphic refresh and made the site mobile responsive (a design still available on the [Fort Worth Library website](http://fortworthtexas.gov/library/)).
+
+The actual coding took two weeks, but it took two months to get the necessary approvals and to prepare many content pages for the change. Add in all of the other tasks on my plate, and it started adding up.
 
 <figure class="side-by-side">
 <div>
@@ -51,6 +54,6 @@ Then, in 2013, while sitting at a communications conference in a presentation ab
 <figcaption>Though visually similar, the responsive layout (on the right) increased the width of the site from 768 pixels to 960 pixels in width.</figcaption>
 </figure>
 
-Though only representing a few days of work, the responsive retrofit took two months to implement due to the weight of other tasks.
+While all of this work was possible with one person, it also took 60-hour weeks, and even 80-hour weeks at crunch time.
 
 Luckily, 2014 brought new staff to the city, freeing me to take on a much bigger task: A full redesign and implementing a new content management system.
