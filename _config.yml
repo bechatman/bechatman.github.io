@@ -1,4 +1,4 @@
-name: BrianChatman.com
-markdown: redcarpet
-permalink: /posts/:title/
+name: Chatlog
+markdown: kramdown
+permalink: /:category/:title/
 css: /styles.css
