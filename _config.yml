@@ -1,4 +1,3 @@
 name: Chatlog
-markdown: kramdown
 permalink: /:category/:title/
 css: /styles.css
